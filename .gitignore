@@ -1,0 +1,7 @@
+build/
+.build/
+.swiftpm/
+xcuserdata/
+*.xcuserstate
+# Test settings for the sample (workspace, user hash): never in git.
+Sample/VartaDeskSample/LocalTest.plist
